@@ -1,0 +1,18 @@
+.postDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+.postInput {
+    width: 50%;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.file {
+    display: none;
+}
+.btn {
+    margin-left: 10px;
+    color: red;
+    border-color: blue;
+}
